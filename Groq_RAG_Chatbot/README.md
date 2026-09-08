@@ -35,21 +35,37 @@ Google Colab / Jupyter Notebook
 The basic workflow of this project is:
 
 Documents
+
     ↓
+    
 Document Loading
+
     ↓
+    
 Text Splitting
+
     ↓
+    
 Create Embeddings
+
     ↓
+    
 Store in ChromaDB
+
     ↓
+    
 User Question
+
     ↓
+    
 Retrieve Relevant Documents
+
     ↓
+    
 Send Context + Question to LLM
+
     ↓
+    
 Generate Answer
 
 # Basic Usage:
