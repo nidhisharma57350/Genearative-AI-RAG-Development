@@ -60,7 +60,6 @@ question = input("Ask a question: ")
 
 response = llm.invoke(prompt)
 
-print("\nAnswer:")
 print(response.content)
 
 The retrieved document context is provided to the language model so that it can generate a relevant answer.
