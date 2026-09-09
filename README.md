@@ -12,5 +12,4 @@ This repository utilizes the following core packages:
 
 *   **Framework:** LangChain
 *   **Language:** Python 
-*   **Environment Variables:** `python-dotenv` (for secure API key management)
 *   **IDE:** Jupyter Notebook / VS Code
